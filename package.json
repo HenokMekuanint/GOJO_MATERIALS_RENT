@@ -1,0 +1,24 @@
+{
+  "name": "rent_a_car_mern_full_stack_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HenokMekuanint/RENT_A_CAR_MERN_FULL_STACK_PROJECT.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HenokMekuanint/RENT_A_CAR_MERN_FULL_STACK_PROJECT/issues"
+  },
+  "homepage": "https://github.com/HenokMekuanint/RENT_A_CAR_MERN_FULL_STACK_PROJECT#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongoose": "^6.5.0",
+    "nodemon": "^2.0.19"
+  }
+}
